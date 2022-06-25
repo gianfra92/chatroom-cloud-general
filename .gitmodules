@@ -1,0 +1,8 @@
+[submodule "chatroom-cloud-server"]
+	path = chatroom-cloud-server
+	url = https://github.com/gianfra92/chatroom-cloud-server.git
+	branch = main
+[submodule "chatroom-cloud-client"]
+	path = chatroom-cloud-client
+	url = https://github.com/gianfra92/chatroom-cloud-client.git
+	branch = master
